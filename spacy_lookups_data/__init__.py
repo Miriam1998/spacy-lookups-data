@@ -65,3 +65,4 @@ bn = {"lemma_rules": get_file("bn_lemma_rules.json")}
 tl = {"lemma_lookup": get_file("tl_lemma_lookup.json")}
 ur = {"lemma_lookup": get_file("ur_lemma_lookup.json")}
 lb = {"lemma_lookup": get_file("lb_lemma_lookup.json")}
+la = {"lemma_lookup": get_file("la_lemma_lookup.json")}
